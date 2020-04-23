@@ -1,1 +1,1 @@
-# MinirechnerTFO
+# MinirechnerTFO Kroess David
